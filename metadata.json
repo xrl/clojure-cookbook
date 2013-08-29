@@ -1,0 +1,32 @@
+{
+  "name": "clojure",
+  "description": "Installs leiningen clojure framework",
+  "long_description": "",
+  "maintainer": "Jonathan Badger",
+  "maintainer_email": "jhbadger@gmail.com",
+  "license": "Apache 2.0",
+  "platforms": {
+  },
+  "dependencies": {
+    "build-essential": ">= 0.0.0",
+    "mercurial": ">= 0.0.0"
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+    "clojure": "Installs leiningen"
+  },
+  "version": "0.0.1"
+}
